@@ -10,7 +10,8 @@ Laboratorio integrado de Desarrollo Web (26 de octubre de 2026): Docker, Kuberne
 
 ## Integrante
 
-Daniel Samayoa · 5090-23-9260.
+HESTIV EDUARDO TOC RAXÓN 5090-23-5985
+
 
 ## Ejecución automática
 
